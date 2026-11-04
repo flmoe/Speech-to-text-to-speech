@@ -11,7 +11,7 @@ This application alters a person's voice by combining voice recognition and text
 * Selectable TTS voice and talking speed
 * Default setting configurable through config file
 * Word filter: remove or replace certain words before speaking
-* configurable mute keyboard shortcut
+* Configurable mute keyboard shortcut
 
 ## Technology
 
