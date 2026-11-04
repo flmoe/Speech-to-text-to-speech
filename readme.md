@@ -2,8 +2,6 @@
 
 This application alters a person's voice by combining voice recognition and text-to-speech technology.
 
-![Picture of assembled circuit board.](/pictures/.webp)
-
 ## Featues
 
 * Speech-to-speech by speech-to-text and text-to-speech conversion
